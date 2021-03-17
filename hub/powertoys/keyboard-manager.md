@@ -190,7 +190,7 @@ Powertoy キーボードマネージャーを使用すると、キーボード�
 
 - [キャップライトインジケーターが正しく切り替えていません](https://github.com/microsoft/PowerToys/issues/1692)
 
-- [F・ Yzones とショートカットガイドで動作しない再マップ](https://github.com/microsoft/PowerToys/issues/3079)
+- [FancyZones とショートカットガイドで動作しない再マップ](https://github.com/microsoft/PowerToys/issues/3079)
 
 - [Win、Ctrl、Alt、Shift などのキーを再マッピングするとジェスチャが中断し、特殊なボタンが表示されることがある](https://github.com/microsoft/PowerToys/issues/3703)
 
